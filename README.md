@@ -9,9 +9,9 @@ This project consists of two interactive dashboards designed for operational and
 
 ## Tools Used
 
--Tableau
--SQL
--Excel
+- Tableau
+- SQL
+- Excel
 
 ---
 
