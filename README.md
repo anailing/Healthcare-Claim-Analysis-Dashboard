@@ -64,7 +64,7 @@ This project consists of two interactive dashboards designed for operational and
 ## Repository Structure
 
 ```text
-Healthcare-Claim-Analysis-Dashboard
+Healthcare Claim Analysis Dashboard
 │
 ├── dashboard
 │   ├── operations-dashboard.png
