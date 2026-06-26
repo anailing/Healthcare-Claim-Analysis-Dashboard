@@ -1,5 +1,5 @@
 # Healthcare Claim Analysis Dashboard
-##Project Overview
+## Project Overview
 
 This project analyzes healthcare claims data using Tableau to identify trends in payer activity and claim outcomes, denial categories, provider specialty performance, and average claim costs.
 
@@ -15,7 +15,7 @@ This project consists of two interactive dashboards designed for operational and
 
 --
 
-##Dashboard
+## Dashboard
 
 ###Operations Dashboard
 
@@ -23,7 +23,7 @@ This project consists of two interactive dashboards designed for operational and
 
 ---
 
-###Financial Dashboard
+### Financial Dashboard
 
 ![Financial Dashboard](dashboard/financial-dashboard.png)
 
@@ -40,6 +40,7 @@ This project consists of two interactive dashboards designed for operational and
 ---
 
 ## Key Insights
+
 - Commercial PPO processed the highest number of claims.
 - Medical necessity was the leading denial category.
 - Paid claims represented the majority of claim outcomes.
@@ -58,7 +59,7 @@ This project consists of two interactive dashboards designed for operational and
 - Interactive Dashboard Development
 - Healthcare Claims Analytics
 
-  ---
+---
 
 ## Repository Structure
 
