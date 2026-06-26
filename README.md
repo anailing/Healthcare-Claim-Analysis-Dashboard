@@ -48,6 +48,18 @@ This project consists of two interactive dashboards designed for operational and
 
 ---
 
+## Skills Demonstrated
+
+- Data Cleaning
+- Data Visualization
+- Dashboard Design
+- SQL Aggregation
+- Business Analysis
+- Interactive Dashboard Development
+- Healthcare Claims Analytics
+
+  ---
+
 ## Repository Structure
 
 ...
