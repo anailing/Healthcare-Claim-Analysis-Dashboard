@@ -13,7 +13,7 @@ This project consists of two interactive dashboards designed for operational and
 -SQL
 -Excel
 
---
+---
 
 ## Dashboard
 
@@ -76,9 +76,11 @@ Healthcare-Claim-Analysis-Dashboard
 ├── sql
 │
 └── README.md
+
 ...
 
 ---
 
 Author
+
 Alexis Nailing
