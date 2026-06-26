@@ -7,7 +7,7 @@ This project consists of two interactive dashboards designed for operational and
 
 ---
 
-##Tools Used
+## Tools Used
 
 -Tableau
 -SQL
@@ -29,7 +29,7 @@ This project consists of two interactive dashboards designed for operational and
 
 ---
 
-##Business Questions
+## Business Questions
 
 -Which payer processes the highest number of claims?
 -What are the most common denial categories?
@@ -39,7 +39,7 @@ This project consists of two interactive dashboards designed for operational and
 
 ---
 
-##Key Insights
+## Key Insights
 - Commercial PPO processed the highest number of claims.
 - Medical necessity was the leading denial category.
 - Paid claims represented the majority of claim outcomes.
