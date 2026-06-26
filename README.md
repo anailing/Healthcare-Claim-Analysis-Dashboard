@@ -31,11 +31,11 @@ This project consists of two interactive dashboards designed for operational and
 
 ## Business Questions
 
--Which payer processes the highest number of claims?
--What are the most common denial categories?
--Which provider specialties submit the most claims?
--Which provider specialties have the highest average claim amounts?
--How do claim volumes change over time?
+- Which payer processes the highest number of claims?
+- What are the most common denial categories?
+- Which provider specialties submit the most claims?
+- Which provider specialties have the highest average claim amounts?
+- How do claim volumes change over time?
 
 ---
 
@@ -64,6 +64,7 @@ This project consists of two interactive dashboards designed for operational and
 ## Repository Structure
 
 ...
+
 Healthcare-Claim-Analysis-Dashboard
 │
 ├── dashboard
