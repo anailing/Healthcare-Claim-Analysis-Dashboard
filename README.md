@@ -17,7 +17,7 @@ This project consists of two interactive dashboards designed for operational and
 
 ## Dashboard
 
-###Operations Dashboard
+### Operations Dashboard
 
 ![Operations Dashboard](dashboard/operations-dashboard.png)
 
