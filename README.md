@@ -79,7 +79,7 @@ Healthcare-Claim-Analysis-Dashboard
 
 ---
 
-Author
+## Author
 
 **Alexis Nailing**
 
