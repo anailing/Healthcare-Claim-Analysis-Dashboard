@@ -63,7 +63,6 @@ This project consists of two interactive dashboards designed for operational and
 
 ## Repository Structure
 
-```text
 Healthcare-Claim-Analysis-Dashboard
 │
 ├── dashboard
@@ -77,10 +76,11 @@ Healthcare-Claim-Analysis-Dashboard
 │   └── healthcare-claims-queries.sql
 │
 └── README.md
-``
 
 ---
 
 Author
 
-Alexis Nailing
+**Alexis Nailing**
+
+Aspiring Data Analyst | SQL | Tableau | Excel
