@@ -1,4 +1,4 @@
-# Healthcare-Claim-Analysis-Dashboard
+# Healthcare Claim Analysis Dashboard
 ##Project Overview
 
 This project analyzes healthcare claims data using Tableau to identify trends in payer activity and claim outcomes, denial categories, provider specialty performance, and average claim costs.
